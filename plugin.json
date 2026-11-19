@@ -1,0 +1,27 @@
+{
+  "name": "ai-executive",
+  "displayName": "AI Executive",
+  "version": "1.0.0",
+  "description": "Use your AI Executive assistant in Antigravity: ask your AI, see today's calendar, tasks and calls that need you, and clear your agent mailbox.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "What's on my AI Executive day today?",
+    "Ask my AI Executive assistant who I need to call back",
+    "Check my AI Executive mailbox for new messages"
+  ],
+  "category": "Productivity",
+  "keywords": [
+    "ai executive",
+    "assistant",
+    "calendar",
+    "tasks",
+    "mailbox",
+    "mcp"
+  ],
+  "author": {
+    "name": "Haygood Ideas, Inc.",
+    "url": "https://aiexec.me"
+  },
+  "homepage": "https://aiexec.me/connect",
+  "license": "Proprietary"
+}
